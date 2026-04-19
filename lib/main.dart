@@ -348,12 +348,12 @@ class _HomePageState extends State<HomePage> {
           buildTopTabs(),
           const SizedBox(height: 24),
           const Text(
-            'Grade Calculator',
+            'Grade Estimator',
             style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
           ),
           const SizedBox(height: 8),
           const Text(
-            'Add your courses and enter scores to calculate your grades.',
+            'Add your courses and track your grades easily.',
             style: TextStyle(color: Colors.grey, fontSize: 16),
           ),
           const SizedBox(height: 22),
